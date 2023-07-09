@@ -10,3 +10,7 @@ _This is a simple racing game using pygame._
 6. If collison happens you would be prompted and the game would automatically quit.
 
 _Thanks_
+
+Issues:
+1) Non markovian state
+2) Last layer probabilities 
